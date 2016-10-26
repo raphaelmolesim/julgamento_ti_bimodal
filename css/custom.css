@@ -1,0 +1,17 @@
+
+section.cover h1 {
+	color: #F0F1EB;
+	font-weight: bolder;			
+}		
+
+section.cover p {
+	background-color:#F0F1EB; 
+	padding: 20px;			
+	width:70%;
+	border-radius: 25px;
+}		
+
+.span2 {
+	width: 50%;	
+	float:left;		
+}
